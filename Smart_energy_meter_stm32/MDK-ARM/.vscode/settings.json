@@ -1,0 +1,10 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "main.h": "c",
+        "ade7753.h": "c",
+        "debug.h": "c",
+        "eeprom.h": "c",
+        "rs485.h": "c"
+    }
+}
